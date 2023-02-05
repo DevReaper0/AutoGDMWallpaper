@@ -1,0 +1,6 @@
+*
+!.gitignore
+!README.md
+!extension.js
+!metadata.json
+!switch.sh
